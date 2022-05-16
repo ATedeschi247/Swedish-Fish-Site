@@ -1,0 +1,16 @@
+.black {
+  color: black;
+}
+.w3-black {
+  background-color: #f5dc2d !important;
+  color: #d22021 !important;
+}
+.w3-button:hover {
+  background-color: #ffe100 !important;
+}
+.w3-row, .w3-padding {
+  padding: 10px !important;
+}
+.w3-row.w3-padding.w3-black > a {
+  padding: 20px !important;
+}
