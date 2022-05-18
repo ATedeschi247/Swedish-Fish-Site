@@ -14,3 +14,10 @@
 .w3-row.w3-padding.w3-black > a {
   padding: 20px !important;
 }
+a#myLink > div {
+  width: 100% !important;
+}
+img {
+  width: 100%;
+  filter: none !important;
+}
