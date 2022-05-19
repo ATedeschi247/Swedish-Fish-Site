@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .black {
   color: black;
 }
@@ -17,7 +20,14 @@
 a#myLink > div {
   width: 100% !important;
 }
-img {
+div.row img {
   width: 100%;
-  filter: none !important;
+}
+div.w3-grayscale, div.w3-sand {
+  filter: grayscale(0%);
+  background-color: white !important;
+}
+.w3-dark-grey {
+  color: #d22021 !important;
+  background-color: #f5dc2d !important;
 }
