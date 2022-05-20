@@ -31,3 +31,22 @@ div.w3-grayscale, div.w3-sand {
   color: #d22021 !important;
   background-color: #f5dc2d !important;
 }
+p, a {
+  font-family: 'Francois One';
+}
+p {
+  font-size: 22px;
+}
+h1 {
+  font-family: 'Bree Serif';
+  color: #e6b400;
+  font-size: 45px;
+}
+a.w3-button.w3-block.w3-black {
+  font-size: 20px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+span.glyphicon {
+  color: orange;
+}
